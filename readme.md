@@ -8,4 +8,3 @@ newchange2
 change5
 newchange3
 newchange4
-change6
